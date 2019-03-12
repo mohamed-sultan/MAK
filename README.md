@@ -15,8 +15,8 @@ https://drive.google.com/file/d/1XMy53QyUfTbDGMNlKr_RVGt5xgysZH5d/view
 ### cases handled
 - no interent connection app render red bar
 - input validation
--user stored in localstorage no need to re login
--preload assets during app bundle
+- user stored in localstorage no need to re login
+- preload assets during app bundle
 
 
 ### main npm modules
