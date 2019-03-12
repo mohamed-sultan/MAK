@@ -20,7 +20,6 @@ https://drive.google.com/file/d/1XMy53QyUfTbDGMNlKr_RVGt5xgysZH5d/view
 
 
 ### main npm modules
-<p align="center">
 - React 
 - React native
 - React native east toasty    to render toast messages
@@ -30,4 +29,3 @@ https://drive.google.com/file/d/1XMy53QyUfTbDGMNlKr_RVGt5xgysZH5d/view
   - Persist                     to store local user
 - React Navigation               to navigate between screens
 - Firebase                        to handle auth
-</p>
