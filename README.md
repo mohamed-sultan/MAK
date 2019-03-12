@@ -4,10 +4,10 @@
 
 ### Preview on your android 
 <center>
-	<a href="https://drive.google.com/file/d/1pABTLYX33g_b8JFa61xOTRiwqSImVI1K/view" target="_blank" />
+	https://drive.google.com/file/d/1pABTLYX33g_b8JFa61xOTRiwqSImVI1K/view
 </center>
 
-main npm modules
+### main npm modules
 <p align="center">
 - React
 - React native
